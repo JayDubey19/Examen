@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508141755652",
+    "project_id": "healthify-1670447851249",
+    "storage_bucket": "healthify-1670447851249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508141755652:android:b44a97a5378b3546314451",
+        "android_client_info": {
+          "package_name": "com.example.examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508141755652-ic4mvmufhi31j7hsnd0fj2ddd5biol8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpichMVyiXzC-VVQw30Q6bNJzYgPkSLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508141755652-ic4mvmufhi31j7hsnd0fj2ddd5biol8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
