@@ -40,7 +40,7 @@ public class LoginTabFragment extends Fragment {
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                firebaseAuth.createUserWithEmailAndPassword(
+                firebaseAuth.signInWithEmailAndPassword(
                         email.getText().toString(), pass.getText().toString()
                         )
                         .addOnCompleteListener(new OnCompleteListener<AuthResult>() {
